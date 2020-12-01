@@ -1,0 +1,32 @@
+
+.forum{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section {
+	border-radius: 10px;
+	font-size: 150%;
+    border: solid;
+    border-color: brown;
+    text-align: center;
+    margin-bottom: 50px; 
+}
+
+.bill {
+	border-radius: 2px;
+	font-size: 50%;
+    border: solid;
+    border-color: blue;
+    text-align: center;
+    margin-bottom: 50px; 
+}
+
+.all{
+	display: -webkit-box;
+}
+
+.element {
+	margin: 10px;
+}
